@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Surandi a first year computer science studet at Leeds Beckett university. 👋
+*I am interested in programming, web designing, computing systems and cybersicurity.*
 
 <!--
 **SurandiRangegama/SurandiRangegama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
